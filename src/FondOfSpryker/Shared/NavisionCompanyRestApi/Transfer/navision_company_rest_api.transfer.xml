@@ -9,4 +9,7 @@
         <property name="blockedFor" type="bool"/>
     </transfer>
 
+    <transfer name="RestCompaniesResponseAttributes">
+        <property name="debtorNumber" type="string"/>
+    </transfer>
 </transfers>
