@@ -11,5 +11,6 @@
 
     <transfer name="RestCompaniesResponseAttributes">
         <property name="debtorNumber" type="string"/>
+        <property name="isBlocked" type="bool"/>
     </transfer>
 </transfers>
